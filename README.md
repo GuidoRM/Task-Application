@@ -1,8 +1,8 @@
-# React + Vite
+# Task-Application
+![image](https://github.com/GuidoRM/Task-Application/assets/91217730/9992009c-960b-4b13-b507-c28b1d9db8d2)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Description
+This is a basic CRUD for task management. It was developed with React, Redux Toolkit and Tailwind.
+![image](https://github.com/GuidoRM/Task-Application/assets/91217730/88ffc8ef-036a-4767-a406-c1ccac502aaa)
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
